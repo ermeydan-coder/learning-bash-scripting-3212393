@@ -8,6 +8,8 @@ echo ~
 echo ~-
 ```
 
+echo
+
 ## 01_06 Brace expansion
 ```bash
 echo {1..10}
